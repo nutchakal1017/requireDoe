@@ -1,6 +1,6 @@
 <?php 
 // var url 
-$base_url= 'http://localhost/Requirement';
+$base_url= 'https://nutchakal1017.github.io/requireDoe/';
 
 // var database
 
